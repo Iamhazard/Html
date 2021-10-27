@@ -1,0 +1,11 @@
+<? xml version="1.0"?>
+<mobile> 
+<name> Note 10 pro</name>
+<model> redmi</model>
+<rate currency="Rs.">33k</rate>
+<made>
+    <software>anroid</software>
+	<material>front grollia glasss</material>
+	<material>plastics</material>
+	</made>
+	</mobile>
